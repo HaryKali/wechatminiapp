@@ -1,0 +1,21 @@
+/* 登陆页面 */
+#myLogin{
+  background-color: #328EEB;
+  height: 400rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+#myIcon{
+  width:200rpx;
+  height: 200rpx;
+  border-radius: 50%;
+}
+#nickName{
+  color:white;
+}
+/* 我的收藏 */
+#myFavorites{
+  padding: 20rpx;
+}
